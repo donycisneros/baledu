@@ -1,5 +1,6 @@
 {
   "name": "baledu",
+  "description": "Balance education",
   "version": "0.1.0",
   "private": true,
   "author": {
@@ -13,8 +14,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "9.5.4",
-    "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   }
 }
